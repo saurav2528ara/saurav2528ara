@@ -1,11 +1,13 @@
 ![MasterHead](https://thumbs.dreamstime.com/b/computer-science-concept-computer-science-concept-illustration-idea-coding-112507118.jpg)
 <h1 align="center">Hi 👋, I'm Saurav</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/ba/9c/a1/ba9ca1e81caf80f5540516e4e20df473.gif">
+<p align="center">
+  <img width="350" height="350" src="https://i.pinimg.com/originals/ba/9c/a1/ba9ca1e81caf80f5540516e4e20df473.gif">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav2528ara&label=Profile%20views&color=0e75b6&style=flat" alt="saurav2528ara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurav2528ara" alt="saurav2528ara" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurav2528ara" alt="saurav2528ara" /></a> </p>
 
 - 🔭 I’m currently working on **DSA**
 
