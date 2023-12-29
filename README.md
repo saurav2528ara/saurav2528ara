@@ -9,9 +9,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurav2528ara" alt="saurav2528ara" /></a> </p>
 
-- 🔭 I’m currently working on **Web Developmentt**
+- 🔭 I’m currently working on **JS Node**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **React Development**
 
 - 📫 How to reach me **saurav2011ara@gmail.com**
 
