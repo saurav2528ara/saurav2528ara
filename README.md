@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **saurav2011ara@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11Lx5EchGwF-rFGOcnPI2HVxUKb1PMCb8/view?usp=sharing](https://drive.google.com/file/d/11Lx5EchGwF-rFGOcnPI2HVxUKb1PMCb8/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
