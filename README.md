@@ -12,9 +12,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hi, My name is Kumar Saurav, I am a hardworking engineering graduate specialised in Computer Science engineering with and overall GPA of 8.2. I am skilled in Web Development and good knowledge of JAVA. Thanks.
 
 * 🌍  I'm based in Bihar,India
-* ✉️  You can contact me at [saurav2011ara@gmail.com](mailto:saurav2011ara@gmail.com)
+* ✉️  You can contact me at [saurav.id.div@gmail.com](mailto:saurav.id.div@gmail.com)
 * 🚀  I'm currently working on [API Integration](http://gds)
-* 🧠  I'm learning MERN Stack
+* 🧠  I'm learning  Agentic AI
 * 🤝  I'm open to collaborating on Web Development Projects
 
 
